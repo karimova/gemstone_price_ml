@@ -1,7 +1,7 @@
-Gemstone Price Prediction
+# Gemstone Price Prediction
 <img src="p-3.jpg" alt="gems" width="600">
 
-Description:
+## Description
 
 Gemstones are highly valuable and prized for their beauty, rarity, and unique characteristics. Predicting their prices accurately can help gemstone traders, collectors, and enthusiasts make informed decisions about buying and selling gemstones.
 
@@ -11,9 +11,11 @@ Gemstones are often considered alternative investments and can hold significant 
 
 Overall, the problem of gemstone price prediction combines elements of finance, data analysis, market dynamics, and consumer awareness, making it a fascinating and relevant area of study for gemstone enthusiasts, traders, and researchers.
 
-Problem statement:
-Predict the gemstone price using Machine Learning teqniques.
+## Problem Statement
 
-Files
-train.csv - the training dataset; price is the target
-test.csv - the test dataset; your objective is to predict price
+Predict the gemstone price using Machine Learning techniques.
+
+## Files
+
+- `Datasets/train.csv` - the training dataset; price is the target.
+- `Datasets/test.csv` - the test dataset; your objective is to predict price.
