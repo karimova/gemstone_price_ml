@@ -1,4 +1,5 @@
 Gemstone Price Prediction
+<img src="p-3.jpg" alt="gems" width="600">
 
 Description:
 
